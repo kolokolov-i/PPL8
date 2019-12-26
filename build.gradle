@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group 'PPL8'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
